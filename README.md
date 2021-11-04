@@ -42,4 +42,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='hhttps://i.imgur.com/znfJlR5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/znfJlR5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
